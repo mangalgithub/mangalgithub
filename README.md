@@ -10,7 +10,7 @@ I am a results-driven Software Engineer with a passion for building high-perform
 
 ---
 
-### 🚀 Featured Project: [Jarvis Personal OS](https://huggingface.co/spaces/lagnam/jarvis-agents)
+### 🚀 Featured Project: [Jarvis Personal OS](https://github.com/mangalgithub/jarvis)
 **An Advanced Multimodal AI Assistant Ecosystem**
 *   **Multimodal Vision:** Integrated Gemini 2.5 Flash for real-time calorie estimation and automated receipt parsing.
 *   **Contextual RAG:** Built a persistent memory engine that enables the AI to learn user habits, dietary preferences, and financial patterns.
