@@ -52,7 +52,7 @@ I am a results-driven Software Engineer with a passion for building high-perform
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/mangal gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mangal gupta" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/mangalgupta004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mangal gupta" height="35" width="45" /></a>
 </p>
 
 ---
